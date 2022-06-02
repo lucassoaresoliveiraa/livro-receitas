@@ -1,6 +1,6 @@
-# Pizza de calabresa	
+# Pizza de calabresa :pizza:
 
-## INGREDIENTES
+## INGREDIENTES :milk_glass:
 
 - 1 kg de farinha de trigo
 
@@ -18,7 +18,7 @@
 
   
 
-## MODO DE PREPARO
+## MODO DE PREPARO :bookmark_tabs:
 
 1. Misture o fermento, o sal e o açúcar em um pouco de água morna, até que o fermento esteja completamente dissolvido.
 2. Em seguida, adicione metade da medida de farinha de trigo, o óleo e mexa até criar uma consistência pastosa.
