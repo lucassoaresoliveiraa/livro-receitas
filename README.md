@@ -1,6 +1,6 @@
-# Livro de receitas :chains:
+# Livro de Receitas :books:
 
 Olá! bem vindo ao meu livro de receitas :heart:
 
-- Pizza de Calabresa
-- Bolo de chocolate 
+- Pizza de Calabresa :pizza:
+- Bolo de chocolate :cake:
